@@ -1139,6 +1139,11 @@ html[xmlns] .slides {
 .testimonial p {
     padding:10px;
     line-height:22px;
+    min-height: 120px
+}
+
+.testimonial h4 {
+    font-weight: bold;
 }
 
 /*Shadow Box*/
