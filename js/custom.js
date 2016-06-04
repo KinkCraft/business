@@ -10,8 +10,13 @@ $(window).load(function() {
 });
 $(document).ready(function() {
 
-    $('#carousel_vertical_slide,#carousel_fade, #carousel_vertical_testimonial, #carousel_fade_icons, #carousel_fade_1, #carousel_fade_2, #carousel_testimonial_2').carousel({
+    $('#carousel_vertical_slide,#carousel_fade, #carousel_vertical_testimonial, #carousel_fade_icons, #carousel_fade_1, #carousel_testimonial_2').carousel({
         interval: 3000
+
+    });
+    
+    $('#carousel_fade_2,#carousel_fade_3,#carousel_fade_4').carousel({
+        interval: 7000
 
     });
 
