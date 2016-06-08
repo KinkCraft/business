@@ -3,7 +3,8 @@ $(window).load(function() {
         animation: "fade",
         animationLoop: true,
         controlNav: true,
-        directionNav: false
+        directionNav: false,
+        slideshowSpeed: 4000
     });
 
 
