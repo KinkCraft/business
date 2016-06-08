@@ -710,6 +710,11 @@ a.post-entry:hover {
     list-style:none;
 }
 
+.slides h3
+{
+    color: #fff
+}
+
 /* Necessary Styles
 ------------------*/
 .flexslider {
